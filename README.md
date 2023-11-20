@@ -72,11 +72,7 @@ If no route is found, it informs the user.
 The project contains a graphical user interface (GUI) that that allows users to input start city, end city, algorithm used, and hueristic. The GUI displays number of turns to be taken by the selected algorithm path, which cities it has to visit before reaching the destination city, and how much time it will take to reach them.
 
 <img width="587" alt="Screenshot 2023-11-20 at 8 35 22 AM" src="https://github.com/Vaibhav-09-P/Routing-and-Navigation/assets/134619542/52701c9c-a42f-43cc-9c5d-77b6cc2e0d75">
-
-
-# Variations
  
-
 
 # Conclusion
 In conclusion, the project successfully implements routing algorithms for finding optimal routes between cities. To further enhance the system, potential improvements include optimizing search algorithms, integrating real-time data, refining heuristic functions, and expanding to support multi-modal routing. Additionally, considering scalability, machine learning integration, community engagement, and internationalization would contribute to the project's evolution and broader usability. Embracing these future aspects could lead to a more efficient, accurate, and user-friendly routing solution.
