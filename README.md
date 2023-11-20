@@ -54,8 +54,7 @@ Defines a successor function that generates possible child nodes (cities) given 
 The goal state is determined by checking if the current city matches the end city.
 
 7. Handling Noise in Data:
-Accounts for potential noise in the data, such as unavailable or incorr<img width="587" alt="Screenshot 2023-11-20 at 8 35 22 AM" src="https://github.com/Vaibhav-09-P/Routing-and-Navigation/assets/134619542/52701c9c-a42f-43cc-9c5d-77b6cc2e0d75">
-ect GPS locations.
+Accounts for potential noise in the data, such as unavailable or incorrect GPS locations.
 In case of A* search with distance or time as costs, the heuristic is designed to handle inaccuracies in GPS data.
 
 8. Evaluation Functions:
@@ -72,3 +71,5 @@ If no route is found, it informs the user.
 # Visuals and GUI
 
 The project contains a graphical user interface (GUI) that that allows users to input start city, end city, algorithm used, and hueristic. The GUI displays number of turns to be taken by the selected algorithm path, which cities it has to visit before reaching the destination city, and how much time it will take to reach them.
+
+<img width="587" alt="Screenshot 2023-11-20 at 8 35 22 AM" src="https://github.com/Vaibhav-09-P/Routing-and-Navigation/assets/134619542/52701c9c-a42f-43cc-9c5d-77b6cc2e0d75">
